@@ -135,6 +135,43 @@ RAVE-corrected Audio
 
 ## StyleGAN2 interpolation
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<!-- Example 1 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+
+<strong>Example 1</strong>
+
+Interpolated audio clip
+
+<audio src="resources/stylegan_extended/example_1.wav" controls></audio>
+
+</div>
+
+<!-- Example 2 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+
+<strong>Example 2</strong>
+
+Interpolated audio clip
+
+<audio src="resources/stylegan_extended/example_2.wav" controls></audio>
+
+</div>
+
+<!-- Example 3 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+
+<strong>Example 3</strong>
+
+Interpolated audio clip
+
+<audio src="resources/stylegan_extended/example_3.wav" controls></audio>
+
+</div>
+
+</div>
+
 -----
 
 
