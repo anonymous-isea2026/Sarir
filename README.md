@@ -47,6 +47,101 @@ Example 4
 
 ## RAVE examples
 
+### RAVE v2 configuration
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<!-- Example 1 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+<strong>Example 1</strong>
+
+<audio src="resources/rave_v2/RAVE_V2_1.wav" controls></audio>
+
+</div>
+
+<!-- Example 2 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+<strong>Example 2</strong>
+
+<audio src="resources/rave_v2/RAVE_V2_2.wav" controls></audio>
+
+</div>
+
+<!-- Example 3 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+<strong>Example 3</strong>
+
+<audio src="resources/rave_v2/RAVE_V2_3.wav" controls></audio>
+
+</div>
+
+<!-- Example 4 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+<strong>Example 4</strong>
+
+<audio src="resources/rave_v2/RAVE_V2_4.wav" controls></audio>
+
+</div>
+
+<!-- Example 5 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+<strong>Example 5</strong>
+
+<audio src="resources/rave_v2/RAVE_V2_5.wav" controls></audio>
+
+</div>
+
+</div>
+
+-----
+
+### RAVE v2_small configuration
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<!-- Example 1 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+<strong>Example 1</strong>
+
+<audio src="resources/rave_v2_small/RAVE_V2_SMALL_1.wav" controls></audio>
+
+</div>
+
+<!-- Example 2 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+<strong>Example 2</strong>
+
+<audio src="resources/rave_v2_small/RAVE_V2_SMALL_2.wav" controls></audio>
+
+</div>
+
+<!-- Example 3 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+<strong>Example 3</strong>
+
+<audio src="resources/rave_v2_small/RAVE_V2_SMALL_3.wav" controls></audio>
+
+</div>
+
+<!-- Example 4 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+<strong>Example 4</strong>
+
+<audio src="resources/rave_v2_small/RAVE_V2_SMALL_4.wav" controls></audio>
+
+</div>
+
+<!-- Example 5 -->
+<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+<strong>Example 5</strong>
+
+<audio src="resources/rave_v2_small/RAVE_V2_SMALL_5.wav" controls></audio>
+
+</div>
+
+</div>
+
+
 -----
 
 ## StyleGAN2: generated spectrograms, reconstructed using Griffin-Lim, corrected using RAVE
