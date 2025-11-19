@@ -2,273 +2,241 @@
 
 ISEA 2026 Submission
 
-## Audio and Spectrogram samples from the *sarir* dataset 
+---
+
+## Audio and Spectrogram Samples from the *sarir* Dataset
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  <!-- Group 1 -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap:20px;">
-    Example 1
-    <audio src="resources/audios/r1-1-136.wav" controls title="Example 1"></audio>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 1</strong>
+    <audio src="resources/audios/r1-1-136.wav" controls></audio>
     <img src="resources/spectrograms/r1-1-136.png" width="300"/>
   </div>
 
-  <!-- Group 2 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px;">
-Example 2
-    <audio src="resources/audios/r2-1-23.wav" controls title="Example 2"></audio>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 2</strong>
+    <audio src="resources/audios/r2-1-23.wav" controls></audio>
     <img src="resources/spectrograms/r2-1-23.png" width="300"/>
   </div>
 
-  <!-- Group 3 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px;">
-Example 3
-    <audio src="resources/audios/r2-1-142.wav" controls title="Example 3"></audio>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 3</strong>
+    <audio src="resources/audios/r2-1-142.wav" controls></audio>
     <img src="resources/spectrograms/r2-1-142.png" width="300"/>
   </div>
 
-  <!-- Group 4 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px;">
-Example 4
-    <audio src="resources/audios/r3-1-82.wav" controls title="Example 4"></audio>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 4</strong>
+    <audio src="resources/audios/r3-1-82.wav" controls></audio>
     <img src="resources/spectrograms/r3-1-82.png" width="300"/>
   </div>
 
-  <!-- Group 5 -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap:20px;">
-  Example 5
-    <audio src="resources/audios/r5-1-312.wav" controls title="Example 5"></audio>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 5</strong>
+    <audio src="resources/audios/r5-1-312.wav" controls></audio>
     <img src="resources/spectrograms/r5-1-312.png" width="300"/>
   </div>
 
 </div>
 
------
+---
 
-## RAVE examples
-
-### RAVE v2 configuration
+## RAVE v2
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<!-- Example 1 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 1</strong>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 1</strong>
+    <audio src="resources/rave_v2/RAVE_V2_1.wav" controls></audio>
+  </div>
 
-<audio src="resources/rave_v2/RAVE_V2_1.wav" controls></audio>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 2</strong>
+    <audio src="resources/rave_v2/RAVE_V2_2.wav" controls></audio>
+  </div>
 
-</div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 3</strong>
+    <audio src="resources/rave_v2/RAVE_V2_3.wav" controls></audio>
+  </div>
 
-<!-- Example 2 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 2</strong>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 4</strong>
+    <audio src="resources/rave_v2/RAVE_V2_4.wav" controls></audio>
+  </div>
 
-<audio src="resources/rave_v2/RAVE_V2_2.wav" controls></audio>
-
-</div>
-
-<!-- Example 3 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 3</strong>
-
-<audio src="resources/rave_v2/RAVE_V2_3.wav" controls></audio>
-
-</div>
-
-<!-- Example 4 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 4</strong>
-
-<audio src="resources/rave_v2/RAVE_V2_4.wav" controls></audio>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 5</strong>
+    <audio src="resources/rave_v2/RAVE_V2_5.wav" controls></audio>
+  </div>
 
 </div>
 
-<!-- Example 5 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 5</strong>
+---
 
-<audio src="resources/rave_v2/RAVE_V2_5.wav" controls></audio>
-
-</div>
-
-</div>
-
------
-
-### RAVE v2_small configuration
+## RAVE v2-small
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<!-- Example 1 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 1</strong>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 1</strong>
+    <audio src="resources/rave_v2_small/RAVE_V2_SMALL_1.wav" controls></audio>
+  </div>
 
-<audio src="resources/rave_v2_small/RAVE_V2_SMALL_1.wav" controls></audio>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 2</strong>
+    <audio src="resources/rave_v2_small/RAVE_V2_SMALL_2.wav" controls></audio>
+  </div>
 
-</div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 3</strong>
+    <audio src="resources/rave_v2_small/RAVE_V2_SMALL_3.wav" controls></audio>
+  </div>
 
-<!-- Example 2 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 2</strong>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 4</strong>
+    <audio src="resources/rave_v2_small/RAVE_V2_SMALL_4.wav" controls></audio>
+  </div>
 
-<audio src="resources/rave_v2_small/RAVE_V2_SMALL_2.wav" controls></audio>
-
-</div>
-
-<!-- Example 3 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 3</strong>
-
-<audio src="resources/rave_v2_small/RAVE_V2_SMALL_3.wav" controls></audio>
-
-</div>
-
-<!-- Example 4 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 4</strong>
-
-<audio src="resources/rave_v2_small/RAVE_V2_SMALL_4.wav" controls></audio>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 5</strong>
+    <audio src="resources/rave_v2_small/RAVE_V2_SMALL_5.wav" controls></audio>
+  </div>
 
 </div>
 
-<!-- Example 5 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 5</strong>
+---
 
-<audio src="resources/rave_v2_small/RAVE_V2_SMALL_5.wav" controls></audio>
-
-</div>
-
-</div>
-
-
------
-
-## StyleGAN2: generated spectrograms, reconstructed using Griffin-Lim, corrected using RAVE
-
+## StyleGAN2 — Generated Spectrograms → Griffin-Lim Reconstruction → RAVE Correction
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<!-- Example 1 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 1</strong>
-
-Generated Spectrogram  
-<img src="resources/stylegan_spectrograms/seed3312.png" width="300"/>
-
-Reconstructed Audio  
-<audio src="resources/stylegan_no_correction/seed3312.wav" controls></audio>
-
-RAVE-corrected Audio  
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
+    <strong>Example 1</strong>
+    <img src="resources/stylegan_spectrograms/seed3312.png" width="300"/>
+    <em>Reconstructed Audio</em>
+    <audio src="resources/stylegan_no_correction/seed3312.wav" controls></audio>
+    <em>RAVE-Corrected Audio</em>
     <audio src="resources/stylegan_rave/seed3312.wav" controls></audio>
+  </div>
 
-</div>
-
-<!-- Example 2 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 2</strong>
-
-Generated Spectrogram  
-<img src="resources/stylegan_spectrograms/seed3313.png" width="300"/>
-
-Reconstructed Audio  
-<audio src="resources/stylegan_no_correction/seed3313.wav" controls></audio>
-
-RAVE-corrected Audio  
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
+    <strong>Example 2</strong>
+    <img src="resources/stylegan_spectrograms/seed3313.png" width="300"/>
+    <em>Reconstructed Audio</em>
+    <audio src="resources/stylegan_no_correction/seed3313.wav" controls></audio>
+    <em>RAVE-Corrected Audio</em>
     <audio src="resources/stylegan_rave/seed3313.wav" controls></audio>
+  </div>
 
-</div>
-
-<!-- Example 3 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 3</strong>
-
-Generated Spectrogram  
-<img src="resources/stylegan_spectrograms/seed3325.png" width="300"/>
-
-Reconstructed Audio  
-<audio src="resources/stylegan_no_correction/seed3325.wav" controls></audio>
-
-RAVE-corrected Audio  
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
+    <strong>Example 3</strong>
+    <img src="resources/stylegan_spectrograms/seed3325.png" width="300"/>
+    <em>Reconstructed Audio</em>
+    <audio src="resources/stylegan_no_correction/seed3325.wav" controls></audio>
+    <em>RAVE-Corrected Audio</em>
     <audio src="resources/stylegan_rave/seed3325.wav" controls></audio>
+  </div>
 
-</div>
-
-<!-- Example 4 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 4</strong>
-
-Generated Spectrogram  
-<img src="resources/stylegan_spectrograms/seed3358.png" width="300"/>
-
-Reconstructed Audio  
-<audio src="resources/stylegan_no_correction/seed3358.wav" controls></audio>
-
-RAVE-corrected Audio  
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
+    <strong>Example 4</strong>
+    <img src="resources/stylegan_spectrograms/seed3358.png" width="300"/>
+    <em>Reconstructed Audio</em>
+    <audio src="resources/stylegan_no_correction/seed3358.wav" controls></audio>
+    <em>RAVE-Corrected Audio</em>
     <audio src="resources/stylegan_rave/seed3358.wav" controls></audio>
+  </div>
 
-</div>
-
-<!-- Example 5 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-<strong>Example 5</strong>
-
-Generated Spectrogram  
-<img src="resources/stylegan_spectrograms/seed3360.png" width="300"/>
-
-Reconstructed Audio  
-<audio src="resources/stylegan_no_correction/seed3360.wav" controls></audio>
-
-RAVE-corrected Audio  
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
+    <strong>Example 5</strong>
+    <img src="resources/stylegan_spectrograms/seed3360.png" width="300"/>
+    <em>Reconstructed Audio</em>
+    <audio src="resources/stylegan_no_correction/seed3360.wav" controls></audio>
+    <em>RAVE-Corrected Audio</em>
     <audio src="resources/stylegan_rave/seed3360.wav" controls></audio>
+  </div>
 
 </div>
 
-</div>
+---
 
------
+## StyleGAN2 Interpolation
 
-## StyleGAN2 interpolation
+<div style="display: flex; flex-direction: column; gap: 40px;">
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <strong>Example 1</strong>
+    <audio src="resources/stylegan_extended/example_1.wav" controls></audio>
+    <img src="resources/stylegan_extended_spectrograms/example_1.png" width="1200"/>
+  </div>
 
-<!-- Example 1 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <strong>Example 2</strong>
+    <audio src="resources/stylegan_extended/example_2.wav" controls></audio>
+    <img src="resources/stylegan_extended_spectrograms/example_2.png" width="1200"/>
+  </div>
 
-<strong>Example 1</strong>
-
-Interpolated audio clip
-
-<audio src="resources/stylegan_extended/example_1.wav" controls></audio>
-
-</div>
-
-<!-- Example 2 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
-
-<strong>Example 2</strong>
-
-Interpolated audio clip
-
-<audio src="resources/stylegan_extended/example_2.wav" controls></audio>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <strong>Example 3</strong>
+    <audio src="resources/stylegan_extended/example_3.wav" controls></audio>
+    <img src="resources/stylegan_extended_spectrograms/example_3.png" width="600"/>
+  </div>
 
 </div>
 
-<!-- Example 3 -->
-<div style="display: flex; flex-direction: column; align-items: center; gap:20px width: 300px;">
+---
 
-<strong>Example 3</strong>
+# Open-Source Text-to-Audio Models
 
-Interpolated audio clip
+<br>
 
-<audio src="resources/stylegan_extended/example_3.wav" controls></audio>
+<table style="border-collapse: collapse; width: 100%; text-align: center;">
+  <tr style="border-bottom: 2px solid #ccc;">
+    <th>Prompt</th>
+    <th>AudioLDM2</th>
+  </tr>
 
-</div>
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td><em>"Arabic calligraphy sarir."</em></td>
+    <td>
+      <audio src="resources/audioldm2/Arabic calligraphy sarir..wav" controls></audio>
+    </td>
+  </tr>
 
-</div>
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td><em>"Persian calligraphy sarir."</em></td>
+    <td>
+      <audio src="resources/audioldm2/Persian calligraphy sarir..wav" controls></audio>
+    </td>
+  </tr>
 
------
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td><em>"The creaking sound of a reed pen during Arabic calligraphy writing."</em></td>
+    <td>
+      <audio src="resources/audioldm2/The creaking sound of a reed pen during Arabic calligraphy writing..wav" controls></audio>
+    </td>
+  </tr>
 
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td><em>"The creaking sound of a reed pen during Persian calligraphy writing."</em></td>
+    <td>
+      <audio src="resources/audioldm2/The creaking sound of a reed pen during Persian calligraphy writing..wav" controls></audio>
+    </td>
+  </tr>
 
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td><em>"The sound of a reed pen writing in Arabic calligraphy."</em></td>
+    <td>
+      <audio src="resources/audioldm2/The sound of a reed pen writing in Arabic calligraphy..wav" controls></audio>
+    </td>
+  </tr>
 
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td><em>"The sound of a reed pen writing in Persian calligraphy."</em></td>
+    <td>
+      <audio src="resources/audioldm2/The sound of a reed pen writing in Persian calligraphy..wav" controls></audio>
+    </td>
+  </tr>
 
+</table>
