@@ -40,8 +40,8 @@ ISEA 2026 Anonymous Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 6</strong>
-    <audio src="resources/audios/r5-1-312.wav" controls></audio>
-    <img src="resources/spectrograms/r5-1-312.png" width="300"/>
+    <audio src="resources/audios/r4-1-152.wav" controls></audio>
+    <img src="resources/spectrograms/r4-1-152.png" width="300"/>
   </div>
 
 </div>
@@ -53,7 +53,7 @@ ISEA 2026 Anonymous Submission
 ### 2.1 Generated Samples from RAVE v1 Configuration
 ---
 
-### 2.2 Generated Samples from RAVE v2 Configuration (best results compared to v1 and v2_small)
+### 2.2 Generated Samples from RAVE v2 Configuration (our preferred results compared to v1 and v2_small)
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
