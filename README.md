@@ -1,10 +1,10 @@
-# Small Data Generative AI for Culturally Specific Artistic Creation: A Case Study on the Sonic Space of sarīr
+# Small Data Generative AI for Culturally Specific Artistic Creation: A Case Study on the Sonic Space of *sarīr*
 
 ISEA 2026 Anonymous Submission
 
 ---
 
-## 1. Audio and Spectrogram Samples from the *sarir* Dataset
+## 1. Audio and Spectrogram Samples from the *sarīr* Dataset
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -34,6 +34,12 @@ ISEA 2026 Anonymous Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 5</strong>
+    <audio src="resources/audios/r5-1-312.wav" controls></audio>
+    <img src="resources/spectrograms/r5-1-312.png" width="300"/>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 6</strong>
     <audio src="resources/audios/r5-1-312.wav" controls></audio>
     <img src="resources/spectrograms/r5-1-312.png" width="300"/>
   </div>
@@ -75,6 +81,11 @@ ISEA 2026 Anonymous Submission
     <audio src="resources/rave_v2/RAVE_V2_5.wav" controls></audio>
   </div>
 
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 5</strong>
+    <audio src="resources/rave_v2/RAVE_V2_5.wav" controls></audio>
+  </div>
+
 </div>
 
 ---
@@ -105,6 +116,11 @@ ISEA 2026 Anonymous Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 5</strong>
+    <audio src="resources/rave_v2_small/RAVE_V2_SMALL_5.wav" controls></audio>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+    <strong>Example 6</strong>
     <audio src="resources/rave_v2_small/RAVE_V2_SMALL_5.wav" controls></audio>
   </div>
 
@@ -167,6 +183,16 @@ ISEA 2026 Anonymous Submission
     <audio src="resources/stylegan_rave/seed3360.wav" controls></audio>
   </div>
 
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
+    <strong>Example 6</strong>
+    <em>Generated Spectrogram</em>
+    <img src="resources/stylegan_spectrograms/seed3360.png" width="300"/>
+    <em>Reconstructed Audio</em>
+    <audio src="resources/stylegan_no_correction/seed3360.wav" controls></audio>
+    <em>RAVE-Corrected Audio</em>
+    <audio src="resources/stylegan_rave/seed3360.wav" controls></audio>
+  </div>
+
 </div>
 
 ---
@@ -176,7 +202,7 @@ ISEA 2026 Anonymous Submission
 <div style="display: flex; flex-direction: column; gap: 40px;">
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <video src="resources/stylegan_extended_video/sarir_stylegan2_interpolation.mp4" width="200"></video>
+    <video src="resources/stylegan_extended_video/sarir_stylegan2_interpolation.mp4" width="400" controls></video>
   </div>
 
 </div>
