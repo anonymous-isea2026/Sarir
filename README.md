@@ -83,7 +83,7 @@ ISEA 2026 Anonymous Submission
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-    <strong>Example 5</strong>
+    <strong>Example 6</strong>
     <audio src="resources/rave_v2/RAVE_V2_5.wav" controls></audio>
   </div>
 
