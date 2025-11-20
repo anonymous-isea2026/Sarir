@@ -51,6 +51,7 @@ ISEA 2026 Anonymous Submission
 ## 2. Results from RAVE Model Training
 
 ### 2.1 Generated Samples from RAVE v1 Configuration
+---
 
 ### 2.2 Generated Samples from RAVE v2 Configuration
 
@@ -206,6 +207,8 @@ ISEA 2026 Anonymous Submission
   </div>
 
 </div>
+
+---
 
 ### 3.3 Concatenative algorithm
 
