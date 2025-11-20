@@ -1,6 +1,6 @@
-# Sarir Small Data for Culturally Specific Generative AI
+# Small Data Generative AI for Culturally Specific Artistic Creation: A Case Study on the Sonic Space of sarīr
 
-ISEA 2026 Submission
+ISEA 2026 Anonymous Submission
 
 ---
 
