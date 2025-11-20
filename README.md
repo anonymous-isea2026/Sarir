@@ -42,7 +42,11 @@ ISEA 2026 Submission
 
 ---
 
-## RAVE v2
+## 2. Results from RAVE Model Training
+
+### 2.1 Generated Samples from RAVE v1 Configuration
+
+### 2.2 Generated Samples from RAVE v2 Configuration
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -75,7 +79,7 @@ ISEA 2026 Submission
 
 ---
 
-## RAVE v2-small
+## 2.3 Generated Samples from RAVE v2-small Configuration
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -108,12 +112,14 @@ ISEA 2026 Submission
 
 ---
 
-## StyleGAN2 — Generated Spectrograms → Griffin-Lim Reconstruction → RAVE Correction
+## 3. Results from StyleGAN2 Model Training
+### 3.1 Generated Spectrograms → Audio Reconstruction → RAVE Correction
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
     <strong>Example 1</strong>
+    <em>Generated Spectrogram</em>
     <img src="resources/stylegan_spectrograms/seed3312.png" width="300"/>
     <em>Reconstructed Audio</em>
     <audio src="resources/stylegan_no_correction/seed3312.wav" controls></audio>
@@ -123,6 +129,7 @@ ISEA 2026 Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
     <strong>Example 2</strong>
+    <em>Generated Spectrogram</em>
     <img src="resources/stylegan_spectrograms/seed3313.png" width="300"/>
     <em>Reconstructed Audio</em>
     <audio src="resources/stylegan_no_correction/seed3313.wav" controls></audio>
@@ -132,6 +139,7 @@ ISEA 2026 Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
     <strong>Example 3</strong>
+    <em>Generated Spectrogram</em>
     <img src="resources/stylegan_spectrograms/seed3325.png" width="300"/>
     <em>Reconstructed Audio</em>
     <audio src="resources/stylegan_no_correction/seed3325.wav" controls></audio>
@@ -141,6 +149,7 @@ ISEA 2026 Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
     <strong>Example 4</strong>
+    <em>Generated Spectrogram</em>
     <img src="resources/stylegan_spectrograms/seed3358.png" width="300"/>
     <em>Reconstructed Audio</em>
     <audio src="resources/stylegan_no_correction/seed3358.wav" controls></audio>
@@ -150,6 +159,7 @@ ISEA 2026 Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
     <strong>Example 5</strong>
+    <em>Generated Spectrogram</em>
     <img src="resources/stylegan_spectrograms/seed3360.png" width="300"/>
     <em>Reconstructed Audio</em>
     <audio src="resources/stylegan_no_correction/seed3360.wav" controls></audio>
@@ -161,19 +171,17 @@ ISEA 2026 Submission
 
 ---
 
-## StyleGAN2 Interpolation
-
-### Interpolation
+### 3.2 StyleGAN2 Interpolation
 
 <div style="display: flex; flex-direction: column; gap: 40px;">
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <video src="resources/stylegan_extended_video/sarir_stylegan2_interpolation.mp4" width="400"></video>
+    <video src="resources/stylegan_extended_video/sarir_stylegan2_interpolation.mp4" width="200"></video>
   </div>
 
 </div>
 
-### Concatenative algorithm
+### 3.3 Concatenative algorithm
 
 <div style="display: flex; flex-direction: column; gap: 40px;">
 
@@ -199,7 +207,7 @@ ISEA 2026 Submission
 
 ---
 
-# Open-Source Text-to-Audio Models
+## 4. Open-Source Text-to-Audio Models
 
 <br>
 
