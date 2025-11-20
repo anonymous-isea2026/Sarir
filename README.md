@@ -79,7 +79,7 @@ ISEA 2026 Anonymous Submission
 
 ---
 
-## 2.3 Generated Samples from RAVE v2-small Configuration
+### 2.3 Generated Samples from RAVE v2-small Configuration
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
