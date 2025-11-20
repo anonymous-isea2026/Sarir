@@ -53,7 +53,7 @@ ISEA 2026 Anonymous Submission
 ### 2.1 Generated Samples from RAVE v1 Configuration
 ---
 
-### 2.2 Generated Samples from RAVE v2 Configuration
+### 2.2 Generated Samples from RAVE v2 Configuration (best results compared to v1 and v2_small)
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
