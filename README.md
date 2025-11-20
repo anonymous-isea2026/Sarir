@@ -163,6 +163,18 @@ ISEA 2026 Submission
 
 ## StyleGAN2 Interpolation
 
+### Interpolation
+
+<div style="display: flex; flex-direction: column; gap: 40px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <video src="resources/stylegan_extended_video/sarir_stylegan2_interpolation.mp4" controls></video>
+  </div>
+
+</div>
+
+### Concatenative algorithm
+
 <div style="display: flex; flex-direction: column; gap: 40px;">
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
