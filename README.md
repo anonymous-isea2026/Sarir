@@ -84,7 +84,7 @@ ISEA 2026 Anonymous Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 6</strong>
-    <audio src="resources/rave_v2/RAVE_V2_5.wav" controls></audio>
+    <audio src="resources/rave_v2/RAVE_V2_6.wav" controls></audio>
   </div>
 
 </div>
@@ -122,7 +122,7 @@ ISEA 2026 Anonymous Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 6</strong>
-    <audio src="resources/rave_v2_small/RAVE_V2_SMALL_5.wav" controls></audio>
+    <audio src="resources/rave_v2_small/RAVE_V2_SMALL_6.wav" controls></audio>
   </div>
 
 </div>
@@ -187,11 +187,11 @@ ISEA 2026 Anonymous Submission
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px; width: 300px;">
     <strong>Example 6</strong>
     <em>Generated Spectrogram</em>
-    <img src="resources/stylegan_spectrograms/seed3360.png" width="300"/>
+    <img src="resources/stylegan_spectrograms/seed14312.png" width="300"/>
     <em>Reconstructed Audio</em>
-    <audio src="resources/stylegan_no_correction/seed3360.wav" controls></audio>
+    <audio src="resources/stylegan_no_correction/seed14312.wav" controls></audio>
     <em>RAVE-Corrected Audio</em>
-    <audio src="resources/stylegan_rave/seed3360.wav" controls></audio>
+    <audio src="resources/stylegan_rave/seed14312.wav" controls></audio>
   </div>
 
 </div>
