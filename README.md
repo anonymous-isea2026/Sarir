@@ -197,7 +197,7 @@ ISEA 2026 Anonymous Submission
 
 ---
 
-### 3.2 StyleGAN2 Interpolation
+### 3.2 StyleGAN2 Latent Space Interpolation
 
 <div style="display: flex; flex-direction: column; gap: 40px;">
 
