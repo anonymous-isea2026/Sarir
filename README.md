@@ -210,7 +210,7 @@ ISEA 2026 Anonymous Submission
 
 ---
 
-### 3.3 Concatenative algorithm
+### 3.3 Generated Samples Based on Latent Space Interpolation Using Concatenative algorithm
 
 <div style="display: flex; flex-direction: column; gap: 40px;">
 
