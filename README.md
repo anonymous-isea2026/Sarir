@@ -4,7 +4,7 @@ ISEA 2026 Submission
 
 ---
 
-## Audio and Spectrogram Samples from the *sarir* Dataset
+## 1. Audio and Spectrogram Samples from the *sarir* Dataset
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -168,7 +168,7 @@ ISEA 2026 Submission
 <div style="display: flex; flex-direction: column; gap: 40px;">
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <video src="resources/stylegan_extended_video/sarir_stylegan2_interpolation.mp4" controls></video>
+    <video src="resources/stylegan_extended_video/sarir_stylegan2_interpolation.mp4" width="400"></video>
   </div>
 
 </div>
