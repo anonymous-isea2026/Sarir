@@ -236,7 +236,7 @@ ISEA 2026 Anonymous Submission
 
 ---
 
-## 4. Open-Source Text-to-Audio Models
+## 4. Results from Open-Source Text-to-Audio Models
 
 <br>
 
@@ -244,10 +244,19 @@ ISEA 2026 Anonymous Submission
   <tr style="border-bottom: 2px solid #ccc;">
     <th>Prompt</th>
     <th>AudioLDM2</th>
+    <th>Stable Audio Open</th>
+    <th>AudioGen</th>
+
   </tr>
 
   <tr style="border-bottom: 1px solid #ddd;">
     <td><em>"Arabic calligraphy sarir."</em></td>
+    <td>
+      <audio src="resources/audioldm2/Arabic calligraphy sarir..wav" controls></audio>
+    </td>
+    <td>
+      <audio src="resources/audioldm2/Arabic calligraphy sarir..wav" controls></audio>
+    </td>
     <td>
       <audio src="resources/audioldm2/Arabic calligraphy sarir..wav" controls></audio>
     </td>
@@ -258,10 +267,22 @@ ISEA 2026 Anonymous Submission
     <td>
       <audio src="resources/audioldm2/Persian calligraphy sarir..wav" controls></audio>
     </td>
+    <td>
+      <audio src="resources/audioldm2/Persian calligraphy sarir..wav" controls></audio>
+    </td>
+    <td>
+      <audio src="resources/audioldm2/Persian calligraphy sarir..wav" controls></audio>
+    </td>
   </tr>
 
   <tr style="border-bottom: 1px solid #ddd;">
     <td><em>"The creaking sound of a reed pen during Arabic calligraphy writing."</em></td>
+    <td>
+      <audio src="resources/audioldm2/The creaking sound of a reed pen during Arabic calligraphy writing..wav" controls></audio>
+    </td>
+    <td>
+      <audio src="resources/audioldm2/The creaking sound of a reed pen during Arabic calligraphy writing..wav" controls></audio>
+    </td>
     <td>
       <audio src="resources/audioldm2/The creaking sound of a reed pen during Arabic calligraphy writing..wav" controls></audio>
     </td>
@@ -272,6 +293,12 @@ ISEA 2026 Anonymous Submission
     <td>
       <audio src="resources/audioldm2/The creaking sound of a reed pen during Persian calligraphy writing..wav" controls></audio>
     </td>
+    <td>
+      <audio src="resources/audioldm2/The creaking sound of a reed pen during Persian calligraphy writing..wav" controls></audio>
+    </td>
+    <td>
+      <audio src="resources/audioldm2/The creaking sound of a reed pen during Persian calligraphy writing..wav" controls></audio>
+    </td>
   </tr>
 
   <tr style="border-bottom: 1px solid #ddd;">
@@ -279,10 +306,22 @@ ISEA 2026 Anonymous Submission
     <td>
       <audio src="resources/audioldm2/The sound of a reed pen writing in Arabic calligraphy..wav" controls></audio>
     </td>
+    <td>
+      <audio src="resources/audioldm2/The sound of a reed pen writing in Arabic calligraphy..wav" controls></audio>
+    </td>
+    <td>
+      <audio src="resources/audioldm2/The sound of a reed pen writing in Arabic calligraphy..wav" controls></audio>
+    </td>
   </tr>
 
   <tr style="border-bottom: 1px solid #ddd;">
     <td><em>"The sound of a reed pen writing in Persian calligraphy."</em></td>
+    <td>
+      <audio src="resources/audioldm2/The sound of a reed pen writing in Persian calligraphy..wav" controls></audio>
+    </td>
+    <td>
+      <audio src="resources/audioldm2/The sound of a reed pen writing in Persian calligraphy..wav" controls></audio>
+    </td>
     <td>
       <audio src="resources/audioldm2/The sound of a reed pen writing in Persian calligraphy..wav" controls></audio>
     </td>
