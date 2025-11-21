@@ -237,6 +237,18 @@ ISEA 2026 Anonymous Submission
     <img src="resources/stylegan_extended_spectrograms/example_3.png" width="600"/>
   </div>
 
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <strong>Example 4</strong>
+    <audio src="resources/stylegan_extended/example_4.wav" controls></audio>
+    <img src="resources/stylegan_extended_spectrograms/example_4.png" width="600"/>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <strong>Example 5</strong>
+    <audio src="resources/stylegan_extended/example_5.wav" controls></audio>
+    <img src="resources/stylegan_extended_spectrograms/example_5.png" width="600"/>
+  </div>
+
 </div>
 
 ---
