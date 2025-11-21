@@ -50,10 +50,11 @@ ISEA 2026 Anonymous Submission
 
 ## 2. Results from RAVE Model Training
 
-### 2.1 Generated Samples from RAVE v1 Configuration
+### 2.1 Generated Samples from RAVE v2 Configuration+Prior (our preferred results)
+
 ---
 
-### 2.2 Generated Samples from RAVE v2 Configuration (our preferred results compared to v1 and v2_small)
+### 2.2 Generated Samples from RAVE v2 Configuration
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -126,6 +127,10 @@ ISEA 2026 Anonymous Submission
   </div>
 
 </div>
+
+---
+
+### 2.4 Generated Samples from RAVE v1 Configuration
 
 ---
 
