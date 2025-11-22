@@ -56,32 +56,32 @@ ISEA 2026 Anonymous Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 1</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-prior-1.wav" controls></audio>
+    <audio src="resources/rave/v2-prior-1.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 2</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-prior-2.wav" controls></audio>
+    <audio src="resources/rave/v2-prior-2.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 3</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-prior-3.wav" controls></audio>
+    <audio src="resources/rave/v2-prior-3.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 4</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-prior-4.wav" controls></audio>
+    <audio src="resources/rave/v2-prior-4.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 5</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-prior-5.wav" controls></audio>
+    <audio src="resources/rave/v2-prior-5.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 6</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-prior-6.wav" controls></audio>
+    <audio src="resources/rave/v2-prior-6.wav" controls></audio>
   </div>
 
 </div>
@@ -94,32 +94,32 @@ ISEA 2026 Anonymous Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 1</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-1.wav" controls></audio>
+    <audio src="resources/rave/v2-1.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 2</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-2.wav" controls></audio>
+    <audio src="resources/rave/v2-2.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 3</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-3.wav" controls></audio>
+    <audio src="resources/rave/v2-3.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 4</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-4.wav" controls></audio>
+    <audio src="resources/rave/v2-4.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 5</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-5.wav" controls></audio>
+    <audio src="resources/rave/v2-5.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 6</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-6.wav" controls></audio>
+    <audio src="resources/rave/v2-6.wav" controls></audio>
   </div>
 
 </div>
@@ -132,32 +132,32 @@ ISEA 2026 Anonymous Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 1</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-small-1.wav" controls></audio>
+    <audio src="resources/rave/v2-small-1.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 2</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-small-2.wav" controls></audio>
+    <audio src="resources/rave/v2-small-2.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 3</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-small-3.wav" controls></audio>
+    <audio src="resources/rave/v2-small-3.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 4</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-small-4.wav" controls></audio>
+    <audio src="resources/rave/v2-small-4.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 5</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-small-5.wav" controls></audio>
+    <audio src="resources/rave/v2-small-5.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 6</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v2-small-6.wav" controls></audio>
+    <audio src="resources/rave/v2-small-6.wav" controls></audio>
   </div>
 
 </div>
@@ -170,32 +170,32 @@ ISEA 2026 Anonymous Submission
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 1</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v1-1.wav" controls></audio>
+    <audio src="resources/rave/v1-1.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 2</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v1-2.wav" controls></audio>
+    <audio src="resources/rave/v1-2.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 3</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v1-3.wav" controls></audio>
+    <audio src="resources/rave/v1-3.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 4</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v1-4.wav" controls></audio>
+    <audio src="resources/rave/v1-4.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 5</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v1-5.wav" controls></audio>
+    <audio src="resources/rave/v1-5.wav" controls></audio>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
     <strong>Example 6</strong>
-    <audio src="/workspaces/Sarir/resources/rave/v1-6.wav" controls></audio>
+    <audio src="resources/rave/v1-6.wav" controls></audio>
   </div>
 
 </div>
@@ -381,7 +381,7 @@ ISEA 2026 Anonymous Submission
   <tr style="border-bottom: 1px solid #ddd;">
     <td><audio src="resources/text-to-audio/audioldm-2/gen_seed1337/Persian calligraphy sarir..wav" controls></audio></td>
     <td><audio src="resources/text-to-audio/stable-audio-open/audio_6_Persian_calligraphy_sarir__seed1050737826.wav" controls></audio></td>
-    <td><audio src="resources/text-to-audio/audiogen/gen_Persian-calligraphy-sarir._seed1434336054.wav" controls></audio></td>
+    <td><audio src="resources/text-to-audio/audiogen/gen_Persian-calligraphy-sarir._seed1676947703.wav" controls></audio></td>
   </tr>
 
   <!-- Prompt 3 -->
@@ -399,7 +399,7 @@ ISEA 2026 Anonymous Submission
   <!-- Example 2 -->
   <tr style="border-bottom: 1px solid #ddd;">
     <td><audio src="resources/text-to-audio/audioldm-2/gen_seed888/The creaking sound of a reed pen during Arabic calligraphy writing..wav" controls></audio></td>
-    <td><audio src="resources/text-to-audio/stable-audio-open/audio_3_The_creaking_sound_of_a_reed_pen_during_Arabic_calligraphy_writing__seed1000229253.wav" controls></audio></td>
+    <td><audio src="resources/text-to-audio/stable-audio-open/audio_3_The_creaking_sound_of_a_reed_pen_during_Arabic_calligraphy_writing__seed1686759985.wav" controls></audio></td>
     <td><audio src="resources/text-to-audio/audiogen/gen_The-creaking-sound-of-a-reed-pen-during-Arabic-calligraphy-writing._seed1222438363.wav" controls></audio></td>
   </tr>
 
@@ -432,7 +432,7 @@ ISEA 2026 Anonymous Submission
   <!-- Example 3 -->
   <tr style="border-bottom: 1px solid #ddd;">
     <td><audio src="resources/text-to-audio/audioldm-2/gen_seed1337/The creaking sound of a reed pen during Persian calligraphy writing..wav" controls></audio></td>
-    <td><audio src="resources/text-to-audio/stable-audio-open/audio_4_The_creaking_sound_of_a_reed_pen_during_Persian_calligraphy_writing__seed1050737826.wav" controls></audio></td>
+    <td><audio src="resources/text-to-audio/stable-audio-open/audio_4_The_creaking_sound_of_a_reed_pen_during_Persian_calligraphy_writing__seed1753377662.wav" controls></audio></td>
     <td><audio src="resources/text-to-audio/audiogen/gen_The-creaking-sound-of-a-reed-pen-during-Persian-calligraphy-writing._seed1434336054.wav" controls></audio></td>
   </tr>
 
@@ -444,14 +444,14 @@ ISEA 2026 Anonymous Submission
   <!-- Example 1 -->
   <tr style="border-bottom: 1px solid #ddd;">
     <td><audio src="resources/text-to-audio/audioldm-2/gen_seed42/The sound of a reed pen writing in Arabic calligraphy..wav" controls></audio></td>
-    <td><audio src="resources/text-to-audio/stable-audio-open/audio_1_The_sound_of_a_reed_pen_writing_in_Arabic_calligraphy__seed123050232.wav" controls></audio></td>
+    <td><audio src="resources/text-to-audio/stable-audio-open/audio_1_The_sound_of_a_reed_pen_writing_in_Arabic_calligraphy__seed1686759985.wav" controls></audio></td>
     <td><audio src="resources/text-to-audio/audiogen/gen_The-sound-of-a-reed-pen-writing-in-Arabic-calligraphy._seed20499904.wav" controls></audio></td>
   </tr>
 
   <!-- Example 2 -->
   <tr style="border-bottom: 1px solid #ddd;">
     <td><audio src="resources/text-to-audio/audioldm-2/gen_seed888/The sound of a reed pen writing in Arabic calligraphy..wav" controls></audio></td>
-    <td><audio src="resources/text-to-audio/stable-audio-open/audio_1_The_sound_of_a_reed_pen_writing_in_Arabic_calligraphy__seed1000229253.wav" controls></audio></td>
+    <td><audio src="resources/text-to-audio/stable-audio-open/audio_1_The_sound_of_a_reed_pen_writing_in_Arabic_calligraphy__seed1753377662.wav" controls></audio></td>
     <td><audio src="resources/text-to-audio/audiogen/gen_The-sound-of-a-reed-pen-writing-in-Arabic-calligraphy._seed1222438363.wav" controls></audio></td>
   </tr>
 
