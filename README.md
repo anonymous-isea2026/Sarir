@@ -17,7 +17,7 @@ ISEA 2026 Anonymous Submission
 
   <!-- Prompt 1 -->
   <tr style="border-bottom: 1px solid #ddd;">
-    <td colspan="3"><em>"Arabic calligraphy sarir."</em></td>
+    <td colspan="3"><em>prompt: "Arabic calligraphy sarir."</em></td>
   </tr>
 
   <!-- Example 1 -->
@@ -43,7 +43,7 @@ ISEA 2026 Anonymous Submission
 
   <!-- Prompt 2 -->
   <tr style="border-bottom: 1px solid #ddd;">
-    <td colspan="3"><em>"Persian calligraphy sarir."</em></td>
+    <td colspan="3"><em>prompt: "Persian calligraphy sarir."</em></td>
   </tr>
   
   <!-- Example 1 -->
@@ -69,7 +69,7 @@ ISEA 2026 Anonymous Submission
 
   <!-- Prompt 3 -->
   <tr style="border-bottom: 1px solid #ddd;">
-    <td colspan="3"><em>"The creaking sound of a reed pen during Arabic calligraphy writing."</em></td>
+    <td colspan="3"><em>prompt: "The creaking sound of a reed pen during Arabic calligraphy writing."</em></td>
   </tr>
   
   <!-- Example 1 -->
@@ -95,7 +95,7 @@ ISEA 2026 Anonymous Submission
 
   <!-- Prompt 4 -->
   <tr style="border-bottom: 1px solid #ddd;">
-    <td colspan="3"><em>"The creaking sound of a reed pen during Persian calligraphy writing."</em></td>
+    <td colspan="3"><em>prompt: "The creaking sound of a reed pen during Persian calligraphy writing."</em></td>
   </tr>
   
   <!-- Example 1 -->
@@ -121,7 +121,7 @@ ISEA 2026 Anonymous Submission
 
   <!-- Prompt 5 -->
   <tr style="border-bottom: 1px solid #ddd;">
-    <td colspan="3"><em>"The sound of a reed pen writing in Arabic calligraphy."</em></td>
+    <td colspan="3"><em>prompt: "The sound of a reed pen writing in Arabic calligraphy."</em></td>
   </tr>
   
   <!-- Example 1 -->
@@ -147,7 +147,7 @@ ISEA 2026 Anonymous Submission
 
   <!-- Prompt 6 -->
   <tr style="border-bottom: 1px solid #ddd;">
-    <td colspan="3"><em>"The sound of a reed pen writing in Persian calligraphy."</em></td>
+    <td colspan="3"><em>prompt: "The sound of a reed pen writing in Persian calligraphy."</em></td>
   </tr>
   
   <!-- Example 1 -->
@@ -173,7 +173,7 @@ ISEA 2026 Anonymous Submission
 
   <!-- Prompt 7 -->
   <tr style="border-bottom: 1px solid #ddd;">
-    <td colspan="3">"صدای قلم نی هنگام خوشنویسی"</td>
+    <td colspan="3">prompt: "صدای قلم نی هنگام خوشنویسی"</td>
   </tr>
   
   <!-- Example 1 -->
