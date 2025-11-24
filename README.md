@@ -519,3 +519,5 @@ ISEA 2026 Anonymous Submission
 </div>
 
 ---
+
+## 5. Artistic Integration
