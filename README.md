@@ -475,7 +475,7 @@ ISEA 2026 Anonymous Submission
 <div style="display: flex; flex-direction: column; gap: 40px;">
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <video src="resources/stylegan_extended_video/sarir_stylegan2_interpolation.mp4" width="400" controls></video>
+    <video src="resources/stylegan_extended_video/sarir_stylegan2_interpolation.mp4" width="500" controls></video>
   </div>
 
 </div>
