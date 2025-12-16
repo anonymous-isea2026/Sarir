@@ -529,7 +529,7 @@ ISEA 2026 Anonymous Submission
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <video src="resources/artistic sketches/sarir-audiovisual-composition-3-complete-compressed.mp4" width="600" controls></video>
+    <video src="resources/artistic sketches/sarir-audiovisual-composition-3-complete-compressed.mp4" width="1200" controls></video>
   </div> 
 
 </div>
