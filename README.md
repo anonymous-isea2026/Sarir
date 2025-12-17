@@ -525,19 +525,11 @@ ISEA 2026 Anonymous Submission
 <div style="display: flex; flex-direction: column; gap: 40px;">
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <video src="resources/artistic sketches/sarir-audiovisual-composition-2-complete.mp4" width="600" controls></video>
+    <video src="resources/artistic sketches/sarir-audiovisual-composition-3-complete-compressed.mp4" width="980" controls></video>
   </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <video src="resources/artistic sketches/sarir-audiovisual-composition-3-complete-compressed.mp4" width="1200" controls></video>
-  </div>
-
-  <div style="width: 100%;">
-  <video
-    src="resources/artistic sketches/sarir-audiovisual-composition-3-complete-compressed.mp4"
-    style="width: 100%; height: auto;"
-    controls
-  ></video>
-</div> 
+    <video src="resources/artistic sketches/sarir-audiovisual-composition-2-complete.mp4" width="980" controls></video>
+  </div> 
 
 </div>
